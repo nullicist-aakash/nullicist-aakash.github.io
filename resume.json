@@ -1,0 +1,204 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Aakash Gupta",
+    "label": "Intern at Nutanix | Bits Pilani Math+CS",
+    "image": "",
+    "email": "f20180887@pilani.bits-pilani.ac.in",
+    "phone": "",
+    "url": "",
+    "summary": "Self taught programmer who loves to learn new skills and abstract topics. Did various courses in college relating to parallel computing, network programming, data storage technologies and networks, cloud computing.",
+    "location": {
+      "countryCode": "US",
+      "address": "Near Telephone Exchange, Uchana Mandi, Jind, Haryana"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "aakash-gupta-556605185",
+        "url": "https://www.linkedin.com/in/aakash-gupta-556605185/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Nutanix",
+      "position": "Intern, Member of Technical Staff",
+      "startDate": "2023-01-31",
+      "endDate": "",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/nutanix/",
+      "location": "Bengaluru, Karnataka, India"
+    },
+    {
+      "name": "CryptoPool",
+      "position": "Senior Backend Engineer",
+      "startDate": "2022-09-30",
+      "endDate": "",
+      "highlights": [],
+      "summary": "Working with the founder to manage and create the payment gateway system for crypto-currencies and managing the team to deliver the product.",
+      "url": "https://www.linkedin.com/company/cryptopoolofficial/",
+      "location": "India"
+    },
+    {
+      "name": "D. E. Shaw India Private Limited",
+      "position": "Software Engineer Intern",
+      "startDate": "2022-06-30",
+      "endDate": "2022-07-31",
+      "highlights": [],
+      "summary": "Worked with streaming data and designed and implemented a rule language to generate notifications for each incoming data in stream.",
+      "url": "https://www.linkedin.com/company/d.-e.-shaw-india-private-limited/",
+      "location": "Hyderabad, Telangana, India"
+    },
+    {
+      "name": "Kalam Labs ",
+      "position": "AR Developer",
+      "startDate": "2020-05-31",
+      "endDate": "2020-06-30",
+      "highlights": [],
+      "summary": "1. Implemented the interface for using the SpiceSharp (C# library for electric circuit simulation) in Unity.\n2. Built NCERT simulations on Unity and Vuforia SDK.\n3. Worked on Reliance Tesseract AR HMD Holoboard SDK for simulation in Unity3D.",
+      "url": "",
+      "location": "Pilani"
+    },
+    {
+      "name": "DYBO™",
+      "position": "C# Unity Developer",
+      "startDate": "2020-02-28",
+      "endDate": "2020-04-30",
+      "highlights": [],
+      "summary": "1. Implemented Page Navigation with message passing in Unity3D.\n2. Managed C# code for API calls and cached data on disk for less internet usage and server load.\n3. Implemented Boss-Worker model of multithreading for calling server for data and making race free code for GUI.\n4. Implemented storage manager for mapping disk storage location from URL path and file versions.\n5. Generated color theme in C# code from RGB array of image.",
+      "url": "https://www.linkedin.com/company/dyboio/",
+      "location": "Pilani, Rajasthan, India"
+    },
+    {
+      "name": "Kalam Labs ",
+      "position": "AR Developer",
+      "startDate": "2019-12-31",
+      "endDate": "2020-01-31",
+      "highlights": [],
+      "summary": "1. Developed various simulations for NCERT experiments on Unity and Vuforia as marker based AR.\n2. Created models for NCERT experiments in blender and used them as Augmented Reality prefabs.",
+      "url": "",
+      "location": "Pilani, Rajasthan, India"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Coding Club BITS Pilani",
+      "position": "Instructor for Internship Session",
+      "startDate": "2021-05-31",
+      "endDate": "2021-07-31",
+      "summary": "Prepared 6 people for internship session on campus by lectures, question solving, continuous tests on Graph Theory, Recursion, Binary Trees, Data Structures and Dynamic Programming",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/14389431"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Birla Institute of Technology and Science, Pilani",
+      "area": "Mathematics and Computer Science",
+      "studyType": "Master's degree",
+      "startDate": "2018-12-31",
+      "endDate": "2023-12-31",
+      "score": "CGPA: 9.4",
+      "courses": [
+        "CS F111 - Computer Programming",
+        "Math F243 - Graphs and Networks",
+        "CS F213 - Object Oriented Programming",
+        "CS F212 - Database Systems",
+        "MATH F231 - Number Theory",
+        "MATH F213 - Discrete Mathematics",
+        "BITS F386 - Quantum Information and Computing"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Programming Foundations: Web Security",
+      "issuer": "LinkedIn",
+	"pinned": true,
+      "startDate": "2023-02-28",
+      "url": "https://www.linkedin.com/learning/certificates/bbf4de0ace8db5df9c3cfb9c0c08a8c0bc32fc69c707dd038d5fb3a1703ee807"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Object-Oriented Programming (OOP)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C#",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Universal Windows Platform (UWP)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C++",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Node.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Application Security",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Competitive Programming",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Database Management System (DBMS)",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "fluency": "Professional Working",
+      "language": "English"
+    },
+    {
+      "fluency": "Native Speaker",
+      "language": "Hindi"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "Time Table Visualiser",
+      "startDate": "2020-08-31",
+      "summary": "There are many Android, Mobile and Web Apps on three campuses of BITS Pilani to visualize time table, but there is no app for Windows 10 that can do the same. This app was created considering the same and it accepts JSON file as time table which can be generated easily.",
+      "url": "https://github.com/Aakash-Gupta-BITS/Time-Table-Reader",
+      "endDate": "2020-08-31"
+    },
+    {
+      "name": "Calculator for Coordinate Geometry",
+      "startDate": "2017-04-30",
+      "summary": "For NCERT class XI math, coordinate geometry chapter, there are various type of geometric structures such as line, circle, eclipse, parabola and hyperbola. This app was made to solve those questions and get the correct answers without doing tedious calculations by hand.",
+      "url": "https://github.com/Aakash-Gupta-BITS/Coordinate-Geometry",
+      "endDate": "2017-06-30"
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
