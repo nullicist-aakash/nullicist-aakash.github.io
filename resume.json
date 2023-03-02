@@ -2,12 +2,12 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Aakash Gupta",
-    "label": "Intern at Nutanix | D.E. Shaw | Bits Pilani Math + CS",
+    "label": "Intern at Nutanix || D.E. Shaw || CryptoPool || Bits Pilani",
     "image": "https://media.licdn.com/dms/image/D4D03AQGi_-xLFET0ug/profile-displayphoto-shrink_400_400/0/1674124715642?e=1683158400&v=beta&t=ig_iwuWughN99b8EFiOA4tp-6Jkif9cfDV1yJl1vO3c",
     "email": "f20180887@pilani.bits-pilani.ac.in",
     "phone": "+91-74968-11413",
     "url": "",
-    "summary": "Self taught programmer who loves to learn new skills and abstract topics. Did various courses in college relating to parallel computing, network programming, data storage technologies and networks, cloud computing.",
+    "summary": "A curious programmer who loves to learn new skills, and questions the workings of everything.",
     "location": {
       "countryCode": "IN",
       "address": "Near Telephone Exchange, Uchana Mandi\nJind, Haryana",
@@ -17,9 +17,24 @@
     },
     "profiles": [
       {
+        "network": "LinkedIn",
+        "username": "aakash-gupta-556605185",
+        "url": "https://www.linkedin.com/in/aakash-gupta-556605185/"
+      },
+      {
         "network": "GitHub",
         "username": "Aakash-Gupta-BITS",
         "url": "https://github.com/Aakash-Gupta-BITS/"
+      },
+      {
+        "network": "YouTube",
+        "username": "ConceptInternals",
+        "url": "https://www.youtube.com/@ConceptInternals"
+      },
+      {
+        "network": "CodeChef",
+        "username": "aakashbitspila",
+        "url": "https://www.codechef.com/users/aakashbitspila"
       },
       {
         "network": "Facebook",
@@ -30,16 +45,6 @@
         "network": "Instagram",
         "username": "aakash_gupta749",
         "url": "https://www.instagram.com/aakash_gupta749/?igshid=ZDdkNTZiNTM%3D"
-      },
-      {
-        "network": "YouTube",
-        "username": "ConceptInternals",
-        "url": "https://www.youtube.com/@ConceptInternals"
-      },
-      {
-        "network": "LinkedIn",
-        "username": "aakash-gupta-556605185",
-        "url": "https://www.linkedin.com/in/aakash-gupta-556605185/"
       }
     ]
   },
@@ -142,6 +147,20 @@
   "volunteer": [
     {
       "organization": "Coding Club, BITS Pilani",
+      "position": "Competitive Coding Ex-Team Lead",
+      "url": "https://www.linkedin.com/company/14389431",
+      "startDate": "2023-08-01",
+      "endDate": "2023-12-07",
+      "summary": "Conducted campus wide competitive sessions for internship and placement preparations.",
+      "highlights": [
+        "Assisted club juniors in development of layout of topics in sessions.",
+        "Took sessions on prefix sum, binary search, dynamic programming and linked lists.",
+        "Gave overview of tree traversals, graph theory and backtracking.",
+        "Gave coding assignments from leetcode relevant to the topics."
+      ]
+    },
+    {
+      "organization": "Coding Club, BITS Pilani",
       "position": "Competitive Coding Team Lead",
       "url": "https://www.linkedin.com/company/14389431",
       "startDate": "2020-07-01",
@@ -153,6 +172,18 @@
         "Gave coding assignments to juniors to complete, assessed them on their code and gave constructive feedback on their implementations.",
         "Conducted various tests on codeforces to make them familiar with the platform and assess their learning of concepts.",
         "Conducted written tests on theory after teaching them and giving them resources to learn."
+      ]
+    },
+    {
+      "organization": "Coding Club, BITS Pilani",
+      "position": "Instructor for Internship Session",
+      "url": "https://www.linkedin.com/company/14389431",
+      "startDate": "2021-05-31",
+      "endDate": "2021-07-31",
+      "summary": "Prepared 6 people for internship session on campus.",
+      "highlights": [
+        "Gave lectures to club members about Graph Theory, Recursion, Binary Trees, Data Structures and Dynamic Programming.",
+        "Conducted weekly evaluations and question solving for above topics"
       ]
     },
     {
@@ -178,69 +209,9 @@
         "Assisted instructor by preparing questions on different topics in graph theory related to course.",
         "Prepared tutorial sheets for class of 90+ students."
       ]
-    },
-    {
-      "organization": "Coding Club, BITS Pilani",
-      "position": "Instructor for Internship Session",
-      "url": "https://www.linkedin.com/company/14389431",
-      "startDate": "2021-05-31",
-      "endDate": "2021-07-31",
-      "summary": "Prepared 6 people for internship session on campus.",
-      "highlights": [
-        "Gave lectures to club members about Graph Theory, Recursion, Binary Trees, Data Structures and Dynamic Programming.",
-        "Conducted weekly evaluations and question solving for above topics"
-      ]
-    },
-    {
-      "organization": "Coding Club, BITS Pilani",
-      "position": "Competitive Coding Ex-Team Lead",
-      "url": "https://www.linkedin.com/company/14389431",
-      "startDate": "2023-07-01",
-      "endDate": "2023-12-07",
-      "summary": "Conducted campus wide competitive sessions for internship and placement preparations.",
-      "highlights": [
-        "Assisted club juniors in development of layout of topics in sessions.",
-        "Took sessions on prefix sum, binary search, dynamic programming and linked lists.",
-        "Gave overview of tree traversals, graph theory and backtracking.",
-        "Gave coding assignments from leetcode relevant to the topics."
-      ]
     }
   ],
   "education": [
-    {
-      "institution": "S.D. Public School, Uchana Mandi, Jind, Haryana",
-      "url": "https://www.smsduchana.info/",
-      "area": "General Education",
-      "studyType": "Till class 8",
-      "endDate": "2014-03-31",
-      "score": "95%",
-      "courses": [
-        "Hindi",
-        "English",
-        "Mathematics",
-        "Science",
-        "Social Science (S.S.)",
-        "G.K. + Drawing",
-        "Sanskrit",
-        "Computer"
-      ]
-    },
-    {
-      "institution": "S.D. Public School, Narwana, Haryana",
-      "url": "https://www.sdpsnarwana.com/",
-      "area": "Non Medical",
-      "studyType": "Till class 12",
-      "startDate": "2014-04-01",
-      "endDate": "2018-03-31",
-      "score": "468/500",
-      "courses": [
-        "Physics",
-        "Chemistry",
-        "Mathematics",
-        "English",
-        "Computer Science"
-      ]
-    },
     {
       "institution": "Birla Institute of Technology and Science, Pilani",
       "url": "https://www.bits-pilani.ac.in/",
@@ -283,10 +254,47 @@
         "Risk Management",
         "Capstone Course"
       ]
+    },
+    {
+      "institution": "S.D. Public School, Narwana, Haryana",
+      "url": "https://www.sdpsnarwana.com/",
+      "area": "Non Medical",
+      "startDate": "2014-04-01",
+      "endDate": "2018-03-31",
+      "score": "468/500",
+      "courses": [
+        "Physics",
+        "Chemistry",
+        "Mathematics",
+        "English",
+        "Computer Science"
+      ]
+    },
+    {
+      "institution": "S.D. Public School, Uchana Mandi, Jind, Haryana",
+      "url": "https://www.smsduchana.info/",
+      "area": "School Education",
+      "endDate": "2014-03-31",
+      "score": "95%",
+      "courses": [
+        "Hindi",
+        "English",
+        "Mathematics",
+        "Science",
+        "Social Science (S.S.)",
+        "G.K. + Drawing",
+        "Sanskrit",
+        "Computer"
+      ]
     }
   ],
   "awards": [
-
+    {
+      "title": "Best Student Award",
+      "awarder": "Mathematics Department, BITS Pilani",
+      "date": "2022-04-23",
+      "summary": "Received the award for achieving the highest grades in our mathematics batch."
+    }
   ],
   "certificates": [
     {
@@ -373,7 +381,7 @@
       "keywords": [
         "Psychology",
         "Self proclaimed philosopher",
-        "Java code is bad for human eyes"
+        "Java hater"
       ]
     }
   ],
