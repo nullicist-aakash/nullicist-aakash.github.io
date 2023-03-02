@@ -17,6 +17,11 @@
     },
     "profiles": [
       {
+        "network": "GitHub",
+        "username": "Aakash-Gupta-BITS",
+        "url": "https://github.com/Aakash-Gupta-BITS/"
+      },
+      {
         "network": "Facebook",
         "username": "Aakash Gupta",
         "url": "https://www.facebook.com/profile.php?id=100025698738655"
@@ -41,150 +46,335 @@
   "work": [
     {
       "name": "Nutanix",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "Cloud Computing Company",
       "position": "Intern, Member of Technical Staff",
-      "startDate": "2023-01-31",
-      "endDate": "",
-      "highlights": [],
-      "url": "https://www.linkedin.com/company/nutanix/",
-      "location": "Bengaluru, Karnataka, India"
+      "url": "https://www.nutanix.com/",
+      "startDate": "2023-01-17",
+      "endDate": "2023-06-30",
+      "summary": "Worked on migration of code from python 2 to python 3.",
+      "highlights": [
+        "Migrated code from python2 to python3 for core-infra team.",
+        "Tested functional code for core-infra team.",
+        "Fixed ill defined implementations of functional code."
+      ]
     },
     {
       "name": "CryptoPool",
+      "location": "Cayman Islands",
+      "description": "Cryptocurrency Payment Gateway",
       "position": "Senior Backend Engineer",
+      "url": "https://www.cryptopool.money/",
       "startDate": "2022-09-30",
       "endDate": "",
-      "highlights": [],
-      "summary": "Working with the founder to manage and create the payment gateway system for crypto-currencies and managing the team to deliver the product.",
-      "url": "https://www.linkedin.com/company/cryptopoolofficial/",
-      "location": "India"
+      "summary": "Working with the founder to manage the development of payment gateway system for cryptocurrencies.",
+      "highlights": [
+        "Working with the developer team and resolving blockers.",
+        "Resolving technical doubts of clients, investors and service providers.",
+        "Continuous code reviews for the code developed by team."
+      ]
     },
     {
       "name": "D. E. Shaw India Private Limited",
+      "location": "Hyderabad, Telangana, India",
+      "description": "Multinational Investment Management Firm ",
       "position": "Software Engineer Intern",
-      "startDate": "2022-06-30",
-      "endDate": "2022-07-31",
-      "highlights": [],
-      "summary": "Worked with streaming data and designed and implemented a rule language to generate notifications for each incoming data in stream.",
-      "url": "https://www.linkedin.com/company/d.-e.-shaw-india-private-limited/",
-      "location": "Hyderabad, Telangana, India"
+      "url": "https://www.deshawindia.com/",
+      "startDate": "2022-05-30",
+      "endDate": "2022-07-23",
+      "summary": "Designed and implemented a rule language to generate alerts based on market activities.",
+      "highlights": [
+        "Designed a Domain Specific Language (DSL) for Alert Generation based on market activities.",
+        "Implemented the interpreter for DSL in python.",
+        "Worked with streaming data from market.",
+        "Designed NoSQL database to store all relevant details for alert generation.",
+        "Implemented the public API for the creation, modification and management of alerts in whole system."
+      ]
     },
     {
-      "name": "Kalam Labs ",
+      "name": "Kalam Labs",
+      "location": "Pilani, Rajasthan, India",
+      "description": "Helps in education via Augmented Reality",
       "position": "AR Developer",
-      "startDate": "2020-05-31",
-      "endDate": "2020-06-30",
-      "highlights": [],
-      "summary": "1. Implemented the interface for using the SpiceSharp (C# library for electric circuit simulation) in Unity.\n2. Built NCERT simulations on Unity and Vuforia SDK.\n3. Worked on Reliance Tesseract AR HMD Holoboard SDK for simulation in Unity3D.",
-      "url": "",
-      "location": "Pilani"
+      "url": "https://www.kalamlabs.in/",
+      "startDate": "2020-05-23",
+      "endDate": "2020-07-31",
+      "summary": "Worked as game developer for science experiments and worked an development of core products in company.",
+      "highlights": [
+        "Built NCERT simulations on Unity and Vuforia SDK.",
+        "Implemented the interface for using the SpiceSharp (C# library for electric circuit simulation) in Unity.",
+        "Worked on Reliance Tesseract AR HMD Holoboard SDK for simulation in Unity3D."
+      ]
     },
     {
       "name": "DYBO™",
+      "location": "Banglore, Karnataka, India",
+      "description": "3D Product Presentation solution",
       "position": "C# Unity Developer",
-      "startDate": "2020-02-28",
-      "endDate": "2020-04-30",
-      "highlights": [],
-      "summary": "1. Implemented Page Navigation with message passing in Unity3D.\n2. Managed C# code for API calls and cached data on disk for less internet usage and server load.\n3. Implemented Boss-Worker model of multithreading for calling server for data and making race free code for GUI.\n4. Implemented storage manager for mapping disk storage location from URL path and file versions.\n5. Generated color theme in C# code from RGB array of image.",
-      "url": "https://www.linkedin.com/company/dyboio/",
-      "location": "Pilani, Rajasthan, India"
+      "url": "https://www.dybo.io/",
+      "startDate": "2020-02-01",
+      "endDate": "2020-04-01",
+      "summary": "Worked with the founders to develop core logic for mobile application.",
+      "highlights": [
+        "Implemented Page Navigation with message passing in Unity3D.",
+        "Managed C# code for API calls and cached data on disk for less internet usage and server load.", 
+        "Implemented Boss-Worker model of multithreading for calling server for data and making race free code for GUI.", 
+        "Implemented storage manager for mapping disk storage location from URL path and file versions.",
+        "Generated color theme in C# code from RGB array of image."
+      ]
     },
     {
-      "name": "Kalam Labs ",
+      "name": "Kalam Labs",
+      "location": "Pilani, Rajasthan, India",
+      "description": "Helps in education via Augmented Reality",
       "position": "AR Developer",
-      "startDate": "2019-12-31",
-      "endDate": "2020-01-31",
-      "highlights": [],
-      "summary": "1. Developed various simulations for NCERT experiments on Unity and Vuforia as marker based AR.\n2. Created models for NCERT experiments in blender and used them as Augmented Reality prefabs.",
-      "url": "",
-      "location": "Pilani, Rajasthan, India"
+      "url": "https://www.kalamlabs.in/",
+      "startDate": "2019-12-16",
+      "endDate": "2020-01-06",
+      "summary": "Developed various models for NCERT Science Experiments in AR.",
+      "highlights": [
+        "Developed various simulations for NCERT experiments on Unity and Vuforia as marker based AR.",
+        "Created models for NCERT experiments in blender and used them as Augmented Reality prefabs.",
+        "Rebuilt script for dynamic loading of models in mobile device and enhanced support for developers."
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Coding Club BITS Pilani",
+      "organization": "Coding Club, BITS Pilani",
+      "position": "Competitive Coding Team Lead",
+      "url": "https://www.linkedin.com/company/14389431",
+      "startDate": "2020-07-01",
+      "endDate": "2021-06-30",
+      "summary": "Managed the newly openend competitive programming team of Club.",
+      "highlights": [
+        "Rebuilt the recruitment process taking past recruitment problems into consideration.",
+        "Conducted weekly 2 hour lectures on competitive programming algorithms, data structures.",
+        "Gave coding assignments to juniors to complete, assessed them on their code and gave constructive feedback on their implementations.",
+        "Conducted various tests on codeforces to make them familiar with the platform and assess their learning of concepts.",
+        "Conducted written tests on theory after teaching them and giving them resources to learn."
+      ]
+    },
+    {
+      "organization": "BITS Pilani",
+      "position": "Teaching Assistant in Neural Networks and Fuzzy Logic",
+      "url": "https://www.bits-pilani.ac.in/",
+      "startDate": "2020-07-01",
+      "endDate": "2020-12-15",
+      "summary": "Assisted course professor in making coding assignments",
+      "highlights": [
+        "Created assignment on K-means for the course",
+        "Handled different research papers on neural networks for 5 different groups. Assisted them in case of any problems."
+      ]
+    },
+    {
+      "organization": "BITS Pilani",
+      "position": "Teaching Assistant in Graphs and Networks",
+      "url": "https://www.bits-pilani.ac.in/",
+      "startDate": "2021-01-01",
+      "endDate": "2021-05-15",
+      "summary": "Assisted course professor in questions preparation.",
+      "highlights": [
+        "Assisted instructor by preparing questions on different topics in graph theory related to course.",
+        "Prepared tutorial sheets for class of 90+ students."
+      ]
+    },
+    {
+      "organization": "Coding Club, BITS Pilani",
       "position": "Instructor for Internship Session",
+      "url": "https://www.linkedin.com/company/14389431",
       "startDate": "2021-05-31",
       "endDate": "2021-07-31",
-      "summary": "Prepared 6 people for internship session on campus by lectures, question solving, continuous tests on Graph Theory, Recursion, Binary Trees, Data Structures and Dynamic Programming",
-      "highlights": [],
-      "url": "https://www.linkedin.com/company/14389431"
+      "summary": "Prepared 6 people for internship session on campus.",
+      "highlights": [
+        "Gave lectures to club members about Graph Theory, Recursion, Binary Trees, Data Structures and Dynamic Programming.",
+        "Conducted weekly evaluations and question solving for above topics"
+      ]
+    },
+    {
+      "organization": "Coding Club, BITS Pilani",
+      "position": "Competitive Coding Ex-Team Lead",
+      "url": "https://www.linkedin.com/company/14389431",
+      "startDate": "2023-07-01",
+      "endDate": "2023-12-07",
+      "summary": "Conducted campus wide competitive sessions for internship and placement preparations.",
+      "highlights": [
+        "Assisted club juniors in development of layout of topics in sessions.",
+        "Took sessions on prefix sum, binary search, dynamic programming and linked lists.",
+        "Gave overview of tree traversals, graph theory and backtracking.",
+        "Gave coding assignments from leetcode relevant to the topics."
+      ]
     }
   ],
   "education": [
     {
-      "institution": "Birla Institute of Technology and Science, Pilani",
-      "area": "Mathematics and Computer Science",
-      "studyType": "Master's degree",
-      "startDate": "2018-12-31",
-      "endDate": "2023-12-31",
-      "score": "CGPA: 9.4",
+      "institution": "S.D. Public School, Uchana Mandi, Jind, Haryana",
+      "url": "https://www.smsduchana.info/",
+      "area": "General Education",
+      "studyType": "Till class 8",
+      "endDate": "2014-03-31",
+      "score": "95%",
       "courses": [
-        "CS F111 - Computer Programming",
-        "Math F243 - Graphs and Networks",
-        "CS F213 - Object Oriented Programming",
-        "CS F212 - Database Systems",
-        "MATH F231 - Number Theory",
-        "MATH F213 - Discrete Mathematics",
-        "BITS F386 - Quantum Information and Computing"
+        "Hindi",
+        "English",
+        "Mathematics",
+        "Science",
+        "Social Science (S.S.)",
+        "G.K. + Drawing",
+        "Sanskrit",
+        "Computer"
+      ]
+    },
+    {
+      "institution": "S.D. Public School, Narwana, Haryana",
+      "url": "https://www.sdpsnarwana.com/",
+      "area": "Non Medical",
+      "studyType": "Till class 12",
+      "startDate": "2014-04-01",
+      "endDate": "2018-03-31",
+      "score": "468/500",
+      "courses": [
+        "Physics",
+        "Chemistry",
+        "Mathematics",
+        "English",
+        "Computer Science"
+      ]
+    },
+    {
+      "institution": "Birla Institute of Technology and Science, Pilani",
+      "url": "https://www.bits-pilani.ac.in/",
+      "area": "Msc. Mathematics and B.E. Computer Science",
+      "studyType": "Dual degree",
+      "startDate": "2018-08-01",
+      "endDate": "2023-06-30",
+      "score": "CGPA: 9.65",
+      "courses": [
+        "Parallel Computing",
+        "Network Programming",
+        "Data Storage Technology and Networks",
+        "Computer Networks",
+        "Compiler Construction",
+        "Graphs and Networks",
+        "Object Oriented Programming",
+        "Design and Analysis and Algorithms",
+        "Database Systems",
+        "Number Theory",
+        "Derivatives and Risk Management",
+        "Quantum Information and Computing",
+        "Cryptography"
+      ]
+    },
+    {
+      "institution": "World Qaunt University",
+      "url": "https://www.wqu.edu/",
+      "area": "MSc. in Financial Engineering",
+      "startDate": "2023-01-10",
+      "endDate": "2024-12-31",
+      "courses": [
+        "Financial Markets",
+        "Financial Data",
+        "Financial Econometrics",
+        "Derivative Pricing",
+        "Stochastic Modeling",
+        "Machine Learning in Finance",
+        "Deep Learning for Finance",
+        "Portfolio Management",
+        "Risk Management",
+        "Capstone Course"
       ]
     }
   ],
-  "awards": [],
+  "awards": [
+
+  ],
   "certificates": [
+    {
+      "name": "Blockchain A-Z™: Learn How To Build Your First Blockchain",
+      "date": "2022-01-01",
+      "issuer": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-fa5cba62-0d30-45bd-8f58-7a2a70a061ff/"
+    },
     {
       "name": "Programming Foundations: Web Security",
       "issuer": "LinkedIn",
-	"pinned": true,
-      "startDate": "2023-02-28",
+      "date": "2023-02-28",
       "url": "https://www.linkedin.com/learning/certificates/bbf4de0ace8db5df9c3cfb9c0c08a8c0bc32fc69c707dd038d5fb3a1703ee807"
     }
   ],
-  "publications": [],
+  "publications": [
+    
+  ],
   "skills": [
     {
-      "name": "Object-Oriented Programming (OOP)",
-      "level": "",
-      "keywords": []
+      "name": "Technologies",
+      "level": "Advanced",
+      "keywords": [
+        "GitHub",
+        "Gerrit"
+      ]
     },
     {
-      "name": "C#",
-      "level": "",
-      "keywords": []
+      "name": "Network Programming",
+      "level": "Intermediate",
+      "keywords": [
+        "TCP",
+        "UDP",
+        "ICMP",
+        "Servers",
+        "Raw Sockets"
+      ]
     },
     {
-      "name": "Universal Windows Platform (UWP)",
-      "level": "",
-      "keywords": []
+      "name": "Parallel Computing",
+      "level": "Advanced",
+      "keywords": [
+        "Multithreading",
+        "Multiprocessing",
+        "OpenMPI",
+        "OpenMP",
+        "CUDA"
+      ]
     },
     {
-      "name": "C++",
-      "level": "",
-      "keywords": []
+      "name": "Object Oriented Programming",
+      "level": "Advanced",
+      "keywords": [
+        "C#",
+        "C++",
+        "Python"
+      ]
     },
     {
-      "name": "Node.js",
-      "level": "",
-      "keywords": []
+      "name": "Web Development",
+      "level": "Intermediate",
+      "keywords": [
+        "Node.js"
+      ]
     },
     {
-      "name": "Web Application Security",
-      "level": "",
-      "keywords": []
+      "name": "Windows Development",
+      "keywords": [
+        "UWP Applications",
+        "Windows Platform Foundation"
+      ]
     },
     {
-      "name": "Competitive Programming",
-      "level": "",
-      "keywords": []
+      "name": "Teaching",
+      "keywords": [
+        "Competitive",
+        "Copmuter",
+        "Maths",
+        "YouTube"
+      ]
     },
     {
-      "name": "SQL",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Database Management System (DBMS)",
-      "level": "",
-      "keywords": []
+      "name": "Overthinking",
+      "keywords": [
+        "Psychology",
+        "Self proclaimed philosopher",
+        "Java code is bad for human eyes"
+      ]
     }
   ],
   "languages": [
@@ -195,10 +385,88 @@
     {
       "fluency": "Native Speaker",
       "language": "Hindi"
+    },
+    {
+      "language": "Haryanvi",
+      "fluency": "Native Speaker"
     }
   ],
-  "interests": [],
-  "references": [],
+  "interests": [
+    {
+      "name": "System Design",
+      "keywords": [
+        "Scalability",
+        "Modularity",
+        "Availability",
+        "Efficiency",
+        "API Design",
+        "Distributed Systems",
+        "Infrastructure"
+      ]
+    },
+    {
+      "name": "Software Development",
+      "keywords": [
+        "Design Patterns",
+        "Best Practices",
+        "Object Oriented Programming"
+      ]
+    },
+    {
+      "name": "System Programming",
+      "keywords": [
+        "Assembly",
+        "Compiler Design",
+        "Netowrk Programming",
+        "Linux Programming",
+        "Parallel Computing"
+      ]
+    },
+    {
+      "name": "Data Structures and Algorithms",
+      "keywords": [
+        "Competitive Programming",
+        "Data Structures in C++",
+        "Analysis of Algorithms"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "keywords": [
+        "Optimization",
+        "Compilation",
+        "C/C++",
+        "Python",
+        "C#"
+      ]
+    },
+    {
+      "name": "Physics",
+      "keywords": [
+        "Quantum Mechanics",
+        "Theory of Relativity",
+        "Nuclear Physics",
+        "Kinematics",
+        "Electromagnetism"
+      ]
+    },
+    {
+      "name": "Time Pass",
+      "keywords": [
+        "TV",
+        "Movies",
+        "Japaani Cartoon",
+        "Amreeki Cartoon",
+        "GTAV Story Mode",
+        "Haryanvi Songs",
+        "YouTube",
+        "Facebook"
+      ]
+    }
+  ],
+  "references": [
+
+  ],
   "projects": [
     {
       "name": "Time Table Visualiser",
