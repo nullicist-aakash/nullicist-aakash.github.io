@@ -6,7 +6,6 @@
     "image": "https://media.licdn.com/dms/image/D4D03AQGi_-xLFET0ug/profile-displayphoto-shrink_400_400/0/1674124715642?e=1683158400&v=beta&t=ig_iwuWughN99b8EFiOA4tp-6Jkif9cfDV1yJl1vO3c",
     "email": "f20180887@pilani.bits-pilani.ac.in",
     "phone": "+91-74968-11413",
-    "url": "",
     "summary": "A curious programmer who loves to learn new skills, and questions the workings of everything.",
     "location": {
       "countryCode": "IN",
@@ -23,8 +22,13 @@
       },
       {
         "network": "GitHub",
-        "username": "Aakash-Gupta-BITS",
-        "url": "https://github.com/Aakash-Gupta-BITS/"
+        "username": "nullicist-aakash",
+        "url": "https://github.com/nullicist-aakash/"
+      },
+      {
+        "network": "YouTube",
+        "username": "ConceptInternals",
+        "url": "https://www.youtube.com/@ConceptInternals"
       },
       {
         "network": "YouTube",
