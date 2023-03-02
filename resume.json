@@ -2,17 +2,35 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Aakash Gupta",
-    "label": "Intern at Nutanix | Bits Pilani Math+CS",
-    "image": "",
+    "label": "Intern at Nutanix | D.E. Shaw | Bits Pilani Math + CS",
+    "image": "https://media.licdn.com/dms/image/D4D03AQGi_-xLFET0ug/profile-displayphoto-shrink_400_400/0/1674124715642?e=1683158400&v=beta&t=ig_iwuWughN99b8EFiOA4tp-6Jkif9cfDV1yJl1vO3c",
     "email": "f20180887@pilani.bits-pilani.ac.in",
-    "phone": "",
+    "phone": "+91-74968-11413",
     "url": "",
     "summary": "Self taught programmer who loves to learn new skills and abstract topics. Did various courses in college relating to parallel computing, network programming, data storage technologies and networks, cloud computing.",
     "location": {
-      "countryCode": "US",
-      "address": "Near Telephone Exchange, Uchana Mandi, Jind, Haryana"
+      "countryCode": "IN",
+      "address": "Near Telephone Exchange, Uchana Mandi\nJind, Haryana",
+      "postalCode": "126115",
+      "region": "Haryana",
+      "city": "Uchana Mandi"
     },
     "profiles": [
+      {
+        "network": "Facebook",
+        "username": "Aakash Gupta",
+        "url": "https://www.facebook.com/profile.php?id=100025698738655"
+      },
+      {
+        "network": "Instagram",
+        "username": "aakash_gupta749",
+        "url": "https://www.instagram.com/aakash_gupta749/?igshid=ZDdkNTZiNTM%3D"
+      },
+      {
+        "network": "YouTube",
+        "username": "ConceptInternals",
+        "url": "https://www.youtube.com/@ConceptInternals"
+      },
       {
         "network": "LinkedIn",
         "username": "aakash-gupta-556605185",
