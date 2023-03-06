@@ -373,7 +373,7 @@
       "name": "Teaching",
       "keywords": [
         "Competitive",
-        "Copmuter",
+        "Computer",
         "Maths",
         "YouTube"
       ]
@@ -482,7 +482,7 @@
       "description": "Following the content of nand2tetris.org, this repo contains the code for building a computer system from scratch.",
       "summary": "Following the content of nand2tetris.org, this repo contains the code for building a computer system from scratch.",
       "startDate": "2023-01-13",
-      "url": "https://github.com/nullicist-aakash/Copmuter-from-scratch",
+      "url": "https://github.com/nullicist-aakash/Computer-from-scratch",
       "highlights": [
         "Implemented binary code simulator in C++.",
         "Implemented assembler to convert assembly to binary code."
