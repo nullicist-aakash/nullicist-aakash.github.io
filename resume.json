@@ -326,7 +326,7 @@
     },
     {
       "name": "Network Programming",
-      "level": "Intermediate",
+      "level": "Advanced",
       "keywords": [
         "TCP",
         "UDP",
@@ -356,14 +356,24 @@
       ]
     },
     {
+      "name": "Unit Testing",
+      "keywords": [
+        "Python"
+      ],
+      "level": "Intermediate"
+    },
+    {
       "name": "Web Development",
       "level": "Intermediate",
       "keywords": [
-        "Node.js"
+        "Node.js",
+        "Javascript",
+        "React"
       ]
     },
     {
       "name": "Windows Development",
+      "level": "Intermediate",
       "keywords": [
         "UWP Applications",
         "Windows Platform Foundation"
@@ -376,14 +386,16 @@
         "Computer",
         "Maths",
         "YouTube"
-      ]
+      ],
+      "level": "Master"
     },
     {
       "name": "Overthinking",
       "keywords": [
         "Psychology",
         "Self proclaimed philosopher"
-      ]
+      ],
+      "level": "Master"
     }
   ],
   "languages": [
