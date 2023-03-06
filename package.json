@@ -9,10 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@anthonyjdella/jsonresume-theme-anthonyjdella-github": "^1.0.4",
-    "jsonresume-theme-flat": "^0.3.7",
-    "jsonresume-theme-github": "^0.0.5",
-    "jsonresume-theme-github-vforesee": "^0.0.7",
     "jsonresume-theme-stackoverflow": "^2.0.0"
   }
 }
