@@ -480,6 +480,7 @@
     {
       "name": "Computer from scratch",
       "description": "Following the content of nand2tetris.org, this repo contains the code for building a computer system from scratch.",
+      "summary": "Following the content of nand2tetris.org, this repo contains the code for building a computer system from scratch.",
       "startDate": "2023-01-13",
       "url": "https://github.com/nullicist-aakash/Copmuter-from-scratch",
       "highlights": [
@@ -496,6 +497,7 @@
     {
       "name": "Hadoop and Spark Microservices",
       "description": "Assignment 1 for the BITS Pilani course - Cloud Computing in which we had to make microservices for Hadoop and Spark.",
+      "summary": "Assignment 1 for the BITS Pilani course - Cloud Computing in which we had to make microservices for Hadoop and Spark.",
       "highlights": [
         "Implemented word search inside collection of files using Hadoop and Spark in Java.",
         "Implemented a mediator in NodeJS for sending and receiving requests from users to appropriate Hadoop or Spark service based on user arguments.",
@@ -520,6 +522,7 @@
     {
       "name": "Network Programming Shell and Servers",
       "description": "Assignments for BITS Pilani course - Network Programming in which we created a shell using Linux system calls, news subscription system and longest common router path to other servers.",
+      "summary": "Assignments for BITS Pilani course - Network Programming in which we created a shell using Linux system calls, news subscription system and longest common router path to other servers.",
       "highlights": [
         "Created a shell with support for pipes, message queues, IO Redirection, background, foreground, daemon commands in C++ using system calls.",
         "Used socket API to create a ring topology for servers with support for parallel clients, push messages, retrieve messages, server communications.",
@@ -548,6 +551,7 @@
     {
       "name": "Parallelize Huffman coding",
       "description": "Parallel Computing project for BITS Course which parallelize the encoding and decoding using huffman coding.",
+      "summary": "Parallel Computing project for BITS Course which parallelize the encoding and decoding using huffman coding.",
       "highlights": [
         "Designed and implemented parallel computation of Huffman encoding and decoding in MPI.",
         "Performed the complexity analysis and scalability computations."
@@ -570,6 +574,7 @@
     {
       "name": "Compiler",
       "description": "Compiler project for BITS course which converts high level language to assembly.",
+      "summary": "Compiler project for BITS course which converts high level language to assembly.",
       "highlights": [
         "Implemented all phases of compiler in C: lexer, parser, type checker, code generation, etc.",
         "Generated appropriate error messages for invalid syntax/data types.",
@@ -593,6 +598,7 @@
     {
       "name": "Time Table Visualizer",
       "description": "Windows 10 time table visualizer for the courses offered in BITS Pilani.",
+      "summary": "Windows 10 time table visualizer for the courses offered in BITS Pilani.",
       "highlights": [
         "Parses excel format of time table to json readable to UWP App.",
         "Helps in selection of various courses and visualise the time table in grid.",
@@ -600,7 +606,6 @@
       ],
       "startDate": "2020-08-15",
       "endDate": "2020-08-18",
-      "summary": "There are many Android, Mobile and Web Apps on three campuses of BITS Pilani to visualize time table, but there is no app for Windows 10 that can do the same. This app was created considering the same and it accepts JSON file as time table which can be generated easily.",
       "url": "https://github.com/nullicist-aakash/Time-Table-Reader",
       "entity": "BITS Pilani",
       "keywords": [
@@ -612,9 +617,24 @@
     },
     {
       "name": "Calculator for Coordinate Geometry",
+      "description": "A simple calculator which calculates various parameters related to lines, circle and conic sections for NCERT class XI mathematics problems.",
       "startDate": "2017-04-30",
-      "summary": "For NCERT class XI math, coordinate geometry chapter, there are various type of geometric structures such as line, circle, eclipse, parabola and hyperbola. This app was made to solve those questions and get the correct answers without doing tedious calculations by hand.",
-      "url": "https://github.com/Aakash-Gupta-BITS/Coordinate-Geometry",
+      "url": "https://github.com/nullicist-aakash/Coordinate-Geometry",
+      "highlights": [
+        "Lines and their various type of questions are handled along with their plotting on side window.",
+        "Circle equations from various methods is calculated: center and radius, two diameter points, etc.",
+        "Properties of conic sections from various representations are calculated."
+      ],
+      "keywords": [
+        "Lines",
+        "Circles",
+        "Parabola",
+        "Ellipse",
+        "Hyperbola",
+        "Calculator"
+      ],
+      "type": "Personal Project",
+      "roles": ["Solo"],
       "endDate": "2017-06-30"
     }
   ],
