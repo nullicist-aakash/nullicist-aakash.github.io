@@ -3,21 +3,11 @@
   "basics": {
     "name": "Aakash Gupta",
     "label": "Intern at Nutanix || D.E. Shaw || CryptoPool || Bits Pilani",
-    "image": "https://media.licdn.com/dms/image/D4D03AQGi_-xLFET0ug/profile-displayphoto-shrink_400_400/0/1674124715642?e=1683158400&v=beta&t=ig_iwuWughN99b8EFiOA4tp-6Jkif9cfDV1yJl1vO3c",
-    "email": "f20180887@pilani.bits-pilani.ac.in",
-    "phone": "+91-74968-11413",
     "summary": "A curious programmer who loves to learn new skills, and questions the workings of everything.",
-    "location": {
-      "countryCode": "IN",
-      "address": "Near Telephone Exchange, Uchana Mandi\nJind, Haryana",
-      "postalCode": "126115",
-      "region": "Haryana",
-      "city": "Uchana Mandi"
-    },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "aakash-gupta-556605185",
+        "username": "aakash-gupta",
         "url": "https://www.linkedin.com/in/aakash-gupta-556605185/"
       },
       {
@@ -34,16 +24,6 @@
         "network": "CodeChef",
         "username": "aakashbitspila",
         "url": "https://www.codechef.com/users/aakashbitspila"
-      },
-      {
-        "network": "Facebook",
-        "username": "Aakash Gupta",
-        "url": "https://www.facebook.com/profile.php?id=100025698738655"
-      },
-      {
-        "network": "Instagram",
-        "username": "aakash_gupta749",
-        "url": "https://www.instagram.com/aakash_gupta749/?igshid=ZDdkNTZiNTM%3D"
       }
     ]
   },
@@ -56,11 +36,10 @@
       "url": "https://www.nutanix.com/",
       "startDate": "2023-01-17",
       "endDate": "2023-06-30",
-      "summary": "Worked on migration of code from python 2 to python 3.",
+      "summary": "Working on migration of code from python 2 to python 3.",
       "highlights": [
         "Migrated code from python2 to python3 for core-infra team.",
-        "Tested functional code for core-infra team.",
-        "Fixed ill defined implementations of functional code."
+        "Testing functional code for migration."
       ]
     },
     {
@@ -145,20 +124,6 @@
   "volunteer": [
     {
       "organization": "Coding Club, BITS Pilani",
-      "position": "Competitive Coding Ex-Team Lead",
-      "url": "https://www.linkedin.com/company/14389431",
-      "startDate": "2023-08-01",
-      "endDate": "2023-12-07",
-      "summary": "Conducted campus wide competitive sessions for internship and placement preparations.",
-      "highlights": [
-        "Assisted club juniors in development of layout of topics in sessions.",
-        "Took sessions on prefix sum, binary search, dynamic programming and linked lists.",
-        "Gave overview of tree traversals, graph theory and backtracking.",
-        "Gave coding assignments from leetcode relevant to the topics."
-      ]
-    },
-    {
-      "organization": "Coding Club, BITS Pilani",
       "position": "Competitive Coding Team Lead",
       "url": "https://www.linkedin.com/company/14389431",
       "startDate": "2020-07-01",
@@ -166,22 +131,12 @@
       "summary": "Managed the newly openend competitive programming team of Club.",
       "highlights": [
         "Rebuilt the recruitment process taking past recruitment problems into consideration.",
-        "Conducted weekly 2 hour lectures on competitive programming algorithms, data structures.",
+        "Conducted weekly 2 hour lectures on competitive programming algorithms and data structures.",
         "Gave coding assignments to juniors to complete, assessed them on their code and gave constructive feedback on their implementations.",
-        "Conducted various tests on codeforces to make them familiar with the platform and assess their learning of concepts.",
-        "Conducted written tests on theory after teaching them and giving them resources to learn."
-      ]
-    },
-    {
-      "organization": "Coding Club, BITS Pilani",
-      "position": "Instructor for Internship Session",
-      "url": "https://www.linkedin.com/company/14389431",
-      "startDate": "2021-05-31",
-      "endDate": "2021-07-31",
-      "summary": "Prepared 6 people for internship session on campus.",
-      "highlights": [
-        "Gave lectures to club members about Graph Theory, Recursion, Binary Trees, Data Structures and Dynamic Programming.",
-        "Conducted weekly evaluations and question solving for above topics"
+        "Conducted written tests on theory after teaching them and giving them resources to learn.",
+        "Assisted club juniors in development of layout of topics in competitive sessions for internship and placement preparations.",
+        "Took placement preparation sessions on prefix sum, binary search, dynamic programming and linked lists, tree traversals and backtracking.",
+        "Gave coding assignments from leetcode relevant to the topics in placement sessions."
       ]
     },
     {
@@ -190,10 +145,10 @@
       "url": "https://www.bits-pilani.ac.in/",
       "startDate": "2020-07-01",
       "endDate": "2020-12-15",
-      "summary": "Assisted course professor in making coding assignments",
+      "summary": "NNFL course covers various topics related to neural networks, including but not limited to ANN, optimizations and Fuzzy Logic.",
       "highlights": [
         "Created assignment on K-means for the course",
-        "Handled different research papers on neural networks for 5 different groups. Assisted them in case of any problems."
+        "Handled different research papers on neural networks for 5 different groups on CNN. Assisted them in case of any problems."
       ]
     },
     {
@@ -202,7 +157,7 @@
       "url": "https://www.bits-pilani.ac.in/",
       "startDate": "2021-01-01",
       "endDate": "2021-05-15",
-      "summary": "Assisted course professor in questions preparation.",
+      "summary": "This course covers graph theory from theoretical point of view including graph traversals, trees, flows, coloring, etc.",
       "highlights": [
         "Assisted instructor by preparing questions on different topics in graph theory related to course.",
         "Prepared tutorial sheets for class of 90+ students."
@@ -219,17 +174,17 @@
       "endDate": "2023-06-30",
       "score": "CGPA: 9.65",
       "courses": [
+        "Object Oriented Programming",
+        "Data Storage Technology and Networks",
         "Parallel Computing",
         "Network Programming",
-        "Data Storage Technology and Networks",
         "Computer Networks",
         "Compiler Construction",
+        "Derivatives and Risk Management",
         "Graphs and Networks",
-        "Object Oriented Programming",
         "Design and Analysis and Algorithms",
         "Database Systems",
         "Number Theory",
-        "Derivatives and Risk Management",
         "Quantum Information and Computing",
         "Cryptography"
       ]
@@ -251,38 +206,6 @@
         "Portfolio Management",
         "Risk Management",
         "Capstone Course"
-      ]
-    },
-    {
-      "institution": "S.D. Public School, Narwana, Haryana",
-      "url": "https://www.sdpsnarwana.com/",
-      "area": "Non Medical",
-      "startDate": "2014-04-01",
-      "endDate": "2018-03-31",
-      "score": "468/500",
-      "courses": [
-        "Physics",
-        "Chemistry",
-        "Mathematics",
-        "English",
-        "Computer Science"
-      ]
-    },
-    {
-      "institution": "S.D. Public School, Uchana Mandi, Jind, Haryana",
-      "url": "https://www.smsduchana.info/",
-      "area": "School Education",
-      "endDate": "2014-03-31",
-      "score": "95%",
-      "courses": [
-        "Hindi",
-        "English",
-        "Mathematics",
-        "Science",
-        "Social Science (S.S.)",
-        "G.K. + Drawing",
-        "Sanskrit",
-        "Computer"
       ]
     }
   ],
@@ -313,6 +236,27 @@
   ],
   "skills": [
     {
+      "name": "Object Oriented Programming",
+      "level": "Advanced",
+      "keywords": [
+        "C++",
+        "C#",
+        "Java",
+        "Python"
+      ]
+    },
+    {
+      "name": "Parallel Computing",
+      "level": "Advanced",
+      "keywords": [
+        "Multithreading",
+        "Multiprocessing",
+        "OpenMPI",
+        "OpenMP",
+        "CUDA"
+      ]
+    },
+    {
       "name": "Compiler Construction",
       "level": "Advanced",
       "keywords": [
@@ -336,29 +280,19 @@
       ]
     },
     {
-      "name": "Parallel Computing",
-      "level": "Advanced",
-      "keywords": [
-        "Multithreading",
-        "Multiprocessing",
-        "OpenMPI",
-        "OpenMP",
-        "CUDA"
-      ]
-    },
-    {
-      "name": "Object Oriented Programming",
-      "level": "Advanced",
-      "keywords": [
-        "C#",
-        "C++",
-        "Python"
-      ]
-    },
-    {
       "name": "Unit Testing",
       "keywords": [
-        "Python"
+        "Python",
+        "Mock"
+      ],
+      "level": "Advanced"
+    },
+    {
+      "name": "Cloud Computing",
+      "keywords": [
+        "Hadoop",
+        "Docker",
+        "Microservices"
       ],
       "level": "Intermediate"
     },
@@ -368,7 +302,8 @@
       "keywords": [
         "Node.js",
         "Javascript",
-        "React"
+        "React",
+        "Firebase"
       ]
     },
     {
@@ -380,36 +315,13 @@
       ]
     },
     {
-      "name": "Teaching",
+      "name": "Game Development",
+      "level": "Intermediate",
       "keywords": [
-        "Competitive",
-        "Computer",
-        "Maths",
-        "YouTube"
-      ],
-      "level": "Master"
-    },
-    {
-      "name": "Overthinking",
-      "keywords": [
-        "Psychology",
-        "Self proclaimed philosopher"
-      ],
-      "level": "Master"
-    }
-  ],
-  "languages": [
-    {
-      "fluency": "Professional Working",
-      "language": "English"
-    },
-    {
-      "fluency": "Native Speaker",
-      "language": "Hindi"
-    },
-    {
-      "language": "Haryanvi",
-      "fluency": "Native Speaker"
+        "Unity",
+        "C#",
+        "Vuforia AR"
+      ]
     }
   ],
   "interests": [
@@ -426,19 +338,10 @@
       ]
     },
     {
-      "name": "Software Development",
-      "keywords": [
-        "Design Patterns",
-        "Best Practices",
-        "Object Oriented Programming"
-      ]
-    },
-    {
       "name": "System Programming",
       "keywords": [
         "Assembly",
-        "Compiler Design",
-        "Netowrk Programming",
+        "Network Programming",
         "Linux Programming",
         "Parallel Computing"
       ]
@@ -452,36 +355,11 @@
       ]
     },
     {
-      "name": "Programming Languages",
-      "keywords": [
-        "Optimization",
-        "Compilation",
-        "C/C++",
-        "Python",
-        "C#"
-      ]
-    },
-    {
       "name": "Physics",
       "keywords": [
         "Quantum Mechanics",
         "Theory of Relativity",
-        "Nuclear Physics",
-        "Kinematics",
         "Electromagnetism"
-      ]
-    },
-    {
-      "name": "Time Pass",
-      "keywords": [
-        "TV",
-        "Movies",
-        "Japaani Cartoon",
-        "Amreeki Cartoon",
-        "GTAV Story Mode",
-        "Haryanvi Songs",
-        "YouTube",
-        "Facebook"
       ]
     }
   ],
@@ -491,13 +369,14 @@
   "projects": [
     {
       "name": "Computer from scratch",
-      "description": "Following the content of nand2tetris.org, this repo contains the code for building a computer system from scratch.",
-      "summary": "Following the content of nand2tetris.org, this repo contains the code for building a computer system from scratch.",
+      "description": "Project for creation of computer system from scratch.",
+      "summary": "A virtual hardware with complete support for compiling, assembling, executing programs written in Jack Programming Language.",
       "startDate": "2023-01-13",
       "url": "https://github.com/nullicist-aakash/Computer-from-scratch",
       "highlights": [
-        "Implemented binary code simulator in C++.",
-        "Implemented assembler to convert assembly to binary code."
+        "Implemented CPU simulator in C++.",
+        "Implemented assembler to convert assembly to binary code.",
+        "Implemented VM Translator to translate bytecode to assembly."
       ],
       "keywords": [
         "Simulator",
@@ -508,12 +387,12 @@
     },
     {
       "name": "Hadoop and Spark Microservices",
-      "description": "Assignment 1 for the BITS Pilani course - Cloud Computing in which we had to make microservices for Hadoop and Spark.",
-      "summary": "Assignment 1 for the BITS Pilani course - Cloud Computing in which we had to make microservices for Hadoop and Spark.",
+      "description": "Built a microservice to search words in a collection of dataset in Hadoop and Spark as part of Cloud Computing coursework.",
+      "summary": "Built a microservice to search words in a collection of dataset in Hadoop and Spark as part of Cloud Computing coursework.",
       "highlights": [
-        "Implemented word search inside collection of files using Hadoop and Spark in Java.",
-        "Implemented a mediator in NodeJS for sending and receiving requests from users to appropriate Hadoop or Spark service based on user arguments.",
-        "Added support for search with `ANY` or `ALL` words in file from a given word list."
+        "Developed a Java-based solution using Hadoop and Spark to implement word search functionality across multiple files.",
+        "Designed and developed a mediator using NodeJS to handle user requests and direct them to the appropriate Hadoop or Spark service based on user arguments.",
+        "Enhanced the file search feature by adding support for ANY or ALL word searches from a provided list of words."
       ],
       "startDate": "2022-10-17",
       "endDate": "2022-11-13",
@@ -524,7 +403,7 @@
         "NodeJS",
         "Cloud Computing"
       ],
-      "url": "https://github.com/sid620/CC-Assignment-1",
+      "url": "https://github.com/nullicist-aakash/CC-Assignment-1",
       "roles": [
         "Team Lead"
       ],
@@ -533,14 +412,14 @@
     },
     {
       "name": "Network Programming Shell and Servers",
-      "description": "Assignments for BITS Pilani course - Network Programming in which we created a shell using Linux system calls, news subscription system and longest common router path to other servers.",
-      "summary": "Assignments for BITS Pilani course - Network Programming in which we created a shell using Linux system calls, news subscription system and longest common router path to other servers.",
+      "description": "Network Programming projects in which we created a shell using Linux system calls, news subscription system and longest common router path to other servers.",
+      "summary": "Network Programming projects in which we created a shell using Linux system calls, news subscription system and longest common router path to other servers.",
       "highlights": [
-        "Created a shell with support for pipes, message queues, IO Redirection, background, foreground, daemon commands in C++ using system calls.",
-        "Used socket API to create a ring topology for servers with support for parallel clients, push messages, retrieve messages, server communications.",
-        "Created two client APIs for publishing messages and retrieving messages and file contents to servers.",
-        "Designed message header for communications, synchronization between servers and clients.",
-        "Used RAW Sockets to get the IP address of common routers from a device to the set of URLs."
+        "Developed a Linux shell in C++ using system calls with advanced features such as pipes, message queues, IO redirection, background/foreground processes, and daemon commands.",
+        "Utilized socket API to establish a ring topology for servers, which allowed for parallel clients, push and retrieve messages, and inter-server communications.",
+        "Designed two client APIs for publishing messages and retrieving both messages and file contents from servers.",
+        "Implemented a message header for communications and ensured synchronization between servers and clients.",
+        "Leveraged RAW Sockets to obtain the IP address of the longest common router from a device to a set of URLs."
       ],
       "startDate": "2022-03-01",
       "endDate": "2022-05-01",
@@ -565,8 +444,8 @@
       "description": "Parallel Computing project for BITS Course which parallelize the encoding and decoding using huffman coding.",
       "summary": "Parallel Computing project for BITS Course which parallelize the encoding and decoding using huffman coding.",
       "highlights": [
-        "Designed and implemented parallel computation of Huffman encoding and decoding in MPI.",
-        "Performed the complexity analysis and scalability computations."
+        "Successfully designed and implemented parallel computation of Huffman encoding and decoding utilizing MPI.",
+        "Conducted comprehensive complexity analysis and scalability computations to evaluate system performance."
       ],
       "startDate": "2022-03-01",
       "endDate": "2022-05-03",
@@ -590,7 +469,7 @@
       "highlights": [
         "Implemented all phases of compiler in C: lexer, parser, type checker, code generation, etc.",
         "Generated appropriate error messages for invalid syntax/data types.",
-        "Have support for arrays, structs, unions, function calls."
+        "Generated assembly to support arrays, structs, unions and function calls."
       ],
       "keywords": [
         "C",
@@ -612,9 +491,9 @@
       "description": "Windows 10 time table visualizer for the courses offered in BITS Pilani.",
       "summary": "Windows 10 time table visualizer for the courses offered in BITS Pilani.",
       "highlights": [
-        "Parses excel format of time table to json readable to UWP App.",
-        "Helps in selection of various courses and visualise the time table in grid.",
-        "Displays collison of classes in case of multiple classes at same time."
+        "Designed and developed a tool that parses the Excel format of a timetable and converts it into a JSON format that is readable by UWP applications.",
+        "Created a user-friendly interface that allows users to select various courses and visualize their timetables in a grid format.",
+        "Incorporated a collision detection feature that alerts users in case of multiple classes scheduled at the same time, providing a more comprehensive and efficient scheduling solution."
       ],
       "startDate": "2020-08-15",
       "endDate": "2020-08-18",
@@ -633,9 +512,9 @@
       "startDate": "2017-04-30",
       "url": "https://github.com/nullicist-aakash/Coordinate-Geometry",
       "highlights": [
-        "Lines and their various type of questions are handled along with their plotting on side window.",
-        "Circle equations from various methods is calculated: center and radius, two diameter points, etc.",
-        "Properties of conic sections from various representations are calculated."
+        "Developed a program that handles lines and various types of questions related to them, while also plotting them on a side window.",
+        "Implemented circle equation calculations using various methods, including center and radius, two diameter points, and more.",
+        "Created a tool that can calculate the properties of conic sections from multiple representations, providing a comprehensive analysis of these complex geometric shapes."
       ],
       "keywords": [
         "Lines",
