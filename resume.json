@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Aakash Gupta",
-    "label": "Intern at Nutanix || D.E. Shaw || CryptoPool || Bits Pilani",
+    "label": "Member Technical D.E. Shaw || Intern at Nutanix || Intern at D.E. Shaw || CryptoPool || Elixar Systems || DYBO || Bits Pilani",
     "summary": "A curious programmer who loves to learn new skills, and questions the workings of everything.",
     "profiles": [
       {
@@ -29,6 +29,17 @@
   },
   "work": [
     {
+      "name": "D.E. Shaw India Private Limited",
+      "location": "Hyderabad, Telangana, India",
+      "description": "Multinational Investment Management Firm",
+      "position": "Member Technical Staff",
+      "url": "https://www.deshawindia.com/",
+      "startDate": "2023-07-05",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
       "name": "Nutanix",
       "location": "Bengaluru, Karnataka, India",
       "description": "Cloud Computing Company",
@@ -36,10 +47,11 @@
       "url": "https://www.nutanix.com/",
       "startDate": "2023-01-17",
       "endDate": "2023-06-30",
-      "summary": "Working on migration of code from python 2 to python 3.",
+      "summary": "Worked on migration of code from python 2 to python 3.",
       "highlights": [
         "Migrated code from python2 to python3 for core-infra team.",
-        "Testing functional code for migration."
+        "Tested functional code using Mock and Mox in both python2 and 3 for backward compatibility.",
+        "Completed code coverage of core-infra codebase upto 90% from 30%."
       ]
     },
     {
@@ -59,7 +71,7 @@
     {
       "name": "D. E. Shaw India Private Limited",
       "location": "Hyderabad, Telangana, India",
-      "description": "Multinational Investment Management Firm ",
+      "description": "Multinational Investment Management Firm",
       "position": "Software Engineer Intern",
       "url": "https://www.deshawindia.com/",
       "startDate": "2022-05-30",
@@ -188,25 +200,6 @@
         "Quantum Information and Computing",
         "Cryptography"
       ]
-    },
-    {
-      "institution": "World Qaunt University",
-      "url": "https://www.wqu.edu/",
-      "area": "MSc. in Financial Engineering",
-      "startDate": "2023-01-10",
-      "endDate": "2024-12-31",
-      "courses": [
-        "Financial Markets",
-        "Financial Data",
-        "Financial Econometrics",
-        "Derivative Pricing",
-        "Stochastic Modeling",
-        "Machine Learning in Finance",
-        "Deep Learning for Finance",
-        "Portfolio Management",
-        "Risk Management",
-        "Capstone Course"
-      ]
     }
   ],
   "awards": [
@@ -215,6 +208,12 @@
       "awarder": "Mathematics Department, BITS Pilani",
       "date": "2022-04-23",
       "summary": "Received the award for achieving the highest grades in our mathematics batch."
+    },
+    {
+      "title": "First prize in campus wide scholarship test",
+      "awarder": "Alphagrep Securities",
+      "date": "2022-11-18",
+      "summary": "Alphagrep Securities conducted a scholarship exam in our campus in which first prize winner can win 3 laakh rupees. Questions were based on Competitive Coding Test."
     }
   ],
   "certificates": [
@@ -359,6 +358,27 @@
 
   ],
   "projects": [
+    {
+      "name": "Consistent Hashing Algorithm",
+      "description": "Implemented Consistent Hashing algorithm from scratch in Nodejs.",
+      "summary": "This is a cloud computing algorithm which is used in horizontal database scaling with minimal data movement among machines when machines are added or removed.",
+      "startDate": "2023-06-16",
+      "url": "https://github.com/sid620/ConsistentHashing",
+      "highlights": [
+        "Implemented Heartbeat Algorithm using nodejs and TCP.",
+        "Implemented error reporting mechanism to send crash logs to developers."
+      ],
+      "keywords": [
+        "Docker",
+        "Nodejs",
+        "Database",
+        "Horizontal Scaling",
+        "Heartbeat Algorithm",
+        "Error Reporting"
+      ],
+      "roles": ["Solo"],
+      "type": "Personal Project"
+    },
     {
       "name": "Computer from scratch",
       "description": "Project for creation of computer system from scratch.",
