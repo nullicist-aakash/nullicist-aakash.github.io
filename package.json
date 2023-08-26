@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jsonresume-theme-stackoverflow": "^2.0.0"
+    "jsonresume-theme-stackoverflow": "^2.0.0",
+    "resume-cli": "^3.0.8"
   }
 }
