@@ -359,6 +359,28 @@
   ],
   "projects": [
     {
+      "name": "Asynchronous scheduler in C++",
+      "description": "Implemented the nodejs like scheduler in C++ using coroutines.",
+      "summary": "To achieve asynchronous programming in singlethread, implemented the async-await mechanism of node-js using C++ coroutines, which runs CPU task in main thread and I/O tasks in thread pool.",
+      "startDate": "2023-11-30",
+      "endDate": "2023-12-03",
+      "url": "https://github.com/nullicist-aakash/CoroutineScheduler",
+      "highlights": [
+        "Used coroutines to implement Nodejs like event-loop in C++",
+        "Used main thread for CPU task and threadpool to distribute I/O bound tasks",
+        "Implemented thread-safe time-based priorirty queue in C++ using mutex and condition variables"
+      ],
+      "keywords": [
+        "Thread pool",
+        "Event Loop",
+        "NodeJS",
+        "Coroutines",
+        "Scheduler"
+      ],
+      "roles": ["Solo"],
+      "type": "Personal Project"
+    },
+    {
       "name": "Java streams implementation in C++",
       "description": "Replicated Java-stream API in C++.",
       "summary": "Implemented a compile time LL(1) parser in C++ using constexpr and consteval features.",
