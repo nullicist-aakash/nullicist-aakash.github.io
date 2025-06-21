@@ -359,22 +359,27 @@
   ],
   "projects": [
     {
-      "name": "Consistent Hashing Algorithm",
-      "description": "Implemented Consistent Hashing algorithm from scratch in Nodejs.",
-      "summary": "This is a cloud computing algorithm which is used in horizontal database scaling with minimal data movement among machines when machines are added or removed.",
-      "startDate": "2023-06-16",
-      "url": "https://github.com/sid620/ConsistentHashing",
+      "name": "Compile Time Parser",
+      "description": "Compile time LL(1) parser in C++",
+      "summary": "Implemented a compile time LL(1) parser in C++ using constexpr and consteval features.",
+      "startDate": "2023-12-30",
+      "endDate": "2024-02-04",
+      "url": "https://github.com/nullicist-aakash/EfficientCompiler",
       "highlights": [
-        "Implemented Heartbeat Algorithm using nodejs and TCP.",
-        "Implemented error reporting mechanism to send crash logs to developers."
+        "Implemented constexpr compatible shared pointer, flatmap and generic enum<->string support",
+        "Implemented State-Machine-Driven Lexical analyser using longest match algorithm.",
+        "Implemented Top-down LL(1) parser using first, follow and selection sets, and generated parser table at compile time.",
+        "Added proper recorvery support in parser and generated compile-time static_assert messages.",
+        "Implemented the visitor pattern to convert parsed tree into DSL specific AST.",
+        "Added JSON parser as PoC for testing.",
+        "Learned C++ modules and migrated the project to modules."
       ],
       "keywords": [
-        "Docker",
-        "Nodejs",
-        "Database",
-        "Horizontal Scaling",
-        "Heartbeat Algorithm",
-        "Error Reporting"
+        "Longest match lexer",
+        "LL(1) Parser",
+        "constexpr and consteval",
+        "C++ modules",
+        "JSON Parsing"
       ],
       "roles": ["Solo"],
       "type": "Personal Project"
@@ -384,6 +389,7 @@
       "description": "Project for creation of computer system from scratch.",
       "summary": "A virtual hardware with complete support for compiling, assembling, executing programs written in Jack Programming Language.",
       "startDate": "2023-01-13",
+      "endDate": "2023-12-03",
       "url": "https://github.com/nullicist-aakash/Computer-from-scratch",
       "highlights": [
         "Implemented CPU simulator in C++.",
