@@ -1198,36 +1198,43 @@ section .location {
     </section>
     <section class="section">
       <header>
-        <h2 class='section-title'>Projects <span class="item-count">(8)</span></h2>
+        <h2 class='section-title'>Projects <span class="item-count">(11)</span></h2>
       </header>
       <section id="projects">
         <section class="project-item">
             <label for="project-item-0"></label>
     
           <header class="clear">
-            <div class="position">Consistent Hashing Algorithm</div>
+            <div class="position">Accounting system</div>
             <div class="date">
-              <span class="startDate">Jun 2023</span>
+              <span class="startDate">Mar 2024</span>
               <span class="endDate">- Current</span>
             </div>
           </header>
-          <span class="website">
-            <span class="fas fa-external-link-alt"></span>
-            <a target="_blank" href="https://github.com/sid620/ConsistentHashing">https://github.com/sid620/ConsistentHashing</a>
-          </span>
           <ul class="keywords">
+              <li>Accounting</li>
+              <li>Parser</li>
+              <li>GMAIL</li>
+              <li>Boost</li>
+              <li>MYSQL</li>
+              <li>Postgres</li>
               <li>Docker</li>
-              <li>Nodejs</li>
-              <li>Database</li>
-              <li>Horizontal Scaling</li>
-              <li>Heartbeat Algorithm</li>
-              <li>Error Reporting</li>
+              <li>ReactJS</li>
+              <li>Python</li>
           </ul>
           <div class="item">
-              <div class="summary"><p>This is a cloud computing algorithm which is used in horizontal database scaling with minimal data movement among machines when machines are added or removed.</p></div>
+              <div class="summary"><p>For personal financial expense tracking and reporting, learned and implemented accounting system in C++.</p></div>
             <ul class="highlights">
-                <li><p>Implemented Heartbeat Algorithm using nodejs and TCP.</p></li>
-                <li><p>Implemented error reporting mechanism to send crash logs to developers.</p></li>
+                <li><p>Implemented non-owning and owning parsers for HTML, CSV and JSON.</p></li>
+                <li><p>Added various parsers for bank statement, SMS, Gmail, Rapido, Uber, Swiggy, etc in C++.</p></li>
+                <li><p>Added support for Journal entries, ledger book and balance sheet.</p></li>
+                <li><p>Added proper support for location overrides for Rapido/Uber, and added support to override data.</p></li>
+                <li><p>Worked with GMAIL API in python, and implemented .lldbinit file for custom view of data structures in debugger.</p></li>
+                <li><p>Implemeted single threaded server in C++ using Boost library and migrated the data handling from file system to MYSQL database.</p></li>
+                <li><p>Worked with Postgres and MYSQL database API in C++ and added data consistency checks for all CRUD operations.</p></li>
+                <li><p>Implemented a frontend app using ReactJS and cursor.</p></li>
+                <li><p>Containerized the application for GCC 15.1 and CMAKE 3.30 support of modules.</p></li>
+                <li><p>Used functional data-types for error handling and logging errors.</p></li>
             </ul>
           </div>
         </section>
@@ -1235,10 +1242,102 @@ section .location {
             <label for="project-item-1"></label>
     
           <header class="clear">
+            <div class="position">Asynchronous scheduler in C++</div>
+            <div class="date">
+              <span class="startDate">Nov 2023</span>
+              <span class="endDate">- Dec 2023</span>
+            </div>
+          </header>
+          <span class="website">
+            <span class="fas fa-external-link-alt"></span>
+            <a target="_blank" href="https://github.com/nullicist-aakash/CoroutineScheduler">https://github.com/nullicist-aakash/CoroutineScheduler</a>
+          </span>
+          <ul class="keywords">
+              <li>Thread pool</li>
+              <li>Event Loop</li>
+              <li>NodeJS</li>
+              <li>Coroutines</li>
+              <li>Scheduler</li>
+          </ul>
+          <div class="item">
+              <div class="summary"><p>To achieve asynchronous programming in singlethread, implemented the async-await mechanism of node-js using C++ coroutines, which runs CPU task in main thread and I/O tasks in thread pool.</p></div>
+            <ul class="highlights">
+                <li><p>Used coroutines to implement Nodejs like event-loop in C++.</p></li>
+                <li><p>Used main thread for CPU task and threadpool to distribute I/O bound tasks.</p></li>
+                <li><p>Implemented thread-safe time-based priorirty queue in C++ using mutex and condition variables.</p></li>
+            </ul>
+          </div>
+        </section>
+        <section class="project-item">
+            <label for="project-item-2"></label>
+    
+          <header class="clear">
+            <div class="position">Java streams implementation in C++</div>
+            <div class="date">
+              <span class="startDate">Jul 2024</span>
+              <span class="endDate">- Jul 2024</span>
+            </div>
+          </header>
+          <span class="website">
+            <span class="fas fa-external-link-alt"></span>
+            <a target="_blank" href="https://github.com/nullicist-aakash/Streams">https://github.com/nullicist-aakash/Streams</a>
+          </span>
+          <ul class="keywords">
+              <li>Java stream</li>
+              <li>C++ iterators</li>
+              <li>C++20 Ranges</li>
+          </ul>
+          <div class="item">
+              <div class="summary"><p>Implemented a compile time LL(1) parser in C++ using constexpr and consteval features.</p></div>
+            <ul class="highlights">
+                <li><p>Implemented Java-streams API using C++ iterators.</p></li>
+                <li><p>Handled lifetime issues with separate handling for temporary containers and non-owning containers.</p></li>
+            </ul>
+          </div>
+        </section>
+        <section class="project-item">
+            <label for="project-item-3"></label>
+    
+          <header class="clear">
+            <div class="position">Compile Time Parser</div>
+            <div class="date">
+              <span class="startDate">Dec 2023</span>
+              <span class="endDate">- Feb 2024</span>
+            </div>
+          </header>
+          <span class="website">
+            <span class="fas fa-external-link-alt"></span>
+            <a target="_blank" href="https://github.com/nullicist-aakash/EfficientCompiler">https://github.com/nullicist-aakash/EfficientCompiler</a>
+          </span>
+          <ul class="keywords">
+              <li>Longest match lexer</li>
+              <li>LL(1) Parser</li>
+              <li>constexpr and consteval</li>
+              <li>C++20 concepts</li>
+              <li>C++20 modules</li>
+              <li>JSON Parsing</li>
+          </ul>
+          <div class="item">
+              <div class="summary"><p>Implemented a compile time LL(1) parser in C++ using constexpr and consteval features.</p></div>
+            <ul class="highlights">
+                <li><p>Implemented constexpr compatible shared pointer, flatmap and generic enum<->string support</p></li>
+                <li><p>Implemented State-Machine-Driven Lexical analyser using longest match algorithm.</p></li>
+                <li><p>Implemented Top-down LL(1) parser using first, follow and selection sets, and generated parser table at compile time.</p></li>
+                <li><p>Added proper recorvery support in parser and generated compile-time static_assert messages.</p></li>
+                <li><p>Implemented the visitor pattern to convert parsed tree into DSL specific AST.</p></li>
+                <li><p>Added JSON parser as PoC for testing.</p></li>
+                <li><p>Learned C++ modules and migrated the project to modules.</p></li>
+            </ul>
+          </div>
+        </section>
+        <section class="project-item">
+            <label for="project-item-4"></label>
+    
+          <header class="clear">
             <div class="position">Computer from scratch</div>
             <div class="date">
               <span class="startDate">Jan 2023</span>
-              <span class="endDate">- Current</span>
+              <span class="endDate">- Dec 2023</span>
             </div>
           </header>
           <span class="website">
@@ -1259,7 +1358,7 @@ section .location {
           </div>
         </section>
         <section class="project-item">
-            <label for="project-item-2"></label>
+            <label for="project-item-5"></label>
     
           <header class="clear">
             <div class="position">Hadoop and Spark Microservices</div>
@@ -1289,7 +1388,7 @@ section .location {
           </div>
         </section>
         <section class="project-item">
-            <label for="project-item-3"></label>
+            <label for="project-item-6"></label>
     
           <header class="clear">
             <div class="position">Network Programming Shell and Servers</div>
@@ -1323,7 +1422,7 @@ section .location {
           </div>
         </section>
         <section class="project-item">
-            <label for="project-item-4"></label>
+            <label for="project-item-7"></label>
     
           <header class="clear">
             <div class="position">Parallelize Huffman coding</div>
@@ -1351,7 +1450,7 @@ section .location {
           </div>
         </section>
         <section class="project-item">
-            <label for="project-item-5"></label>
+            <label for="project-item-8"></label>
     
           <header class="clear">
             <div class="position">Compiler</div>
@@ -1380,7 +1479,7 @@ section .location {
           </div>
         </section>
         <section class="project-item">
-            <label for="project-item-6"></label>
+            <label for="project-item-9"></label>
     
           <header class="clear">
             <div class="position">Time Table Visualizer</div>
