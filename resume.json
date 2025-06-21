@@ -359,6 +359,37 @@
   ],
   "projects": [
     {
+      "name": "Accounting system",
+      "description": "Implemented the accounting system in C++.",
+      "summary": "For personal financial expense tracking and reporting, learned and implemented accounting system in C++.",
+      "startDate": "2024-03-19",
+      "highlights": [
+        "Implemented non-owning and owning parsers for HTML, CSV and JSON.",
+        "Added various parsers for bank statement, SMS, Gmail, Rapido, Uber, Swiggy, etc in C++.",
+        "Added support for Journal entries, ledger book and balance sheet.",
+        "Added proper support for location overrides for Rapido/Uber, and added support to override data.",
+        "Worked with GMAIL API in python, and implemented .lldbinit file for custom view of data structures in debugger.",
+        "Implemeted single threaded server in C++ using Boost library and migrated the data handling from file system to MYSQL database.",
+        "Worked with Postgres and MYSQL database API in C++ and added data consistency checks for all CRUD operations.",
+        "Implemented a frontend app using ReactJS and cursor.",
+        "Containerized the application for GCC 15.1 and CMAKE 3.30 support of modules.",
+        "Used functional data-types for error handling and logging errors."
+      ],
+      "keywords": [
+        "Accounting",
+        "Parser",
+        "GMAIL",
+        "Boost",
+        "MYSQL",
+        "Postgres",
+        "Docker",
+        "ReactJS",
+        "Python"
+      ],
+      "roles": ["Solo"],
+      "type": "Personal Project"
+    },
+    {
       "name": "Asynchronous scheduler in C++",
       "description": "Implemented the nodejs like scheduler in C++ using coroutines.",
       "summary": "To achieve asynchronous programming in singlethread, implemented the async-await mechanism of node-js using C++ coroutines, which runs CPU task in main thread and I/O tasks in thread pool.",
@@ -366,9 +397,9 @@
       "endDate": "2023-12-03",
       "url": "https://github.com/nullicist-aakash/CoroutineScheduler",
       "highlights": [
-        "Used coroutines to implement Nodejs like event-loop in C++",
-        "Used main thread for CPU task and threadpool to distribute I/O bound tasks",
-        "Implemented thread-safe time-based priorirty queue in C++ using mutex and condition variables"
+        "Used coroutines to implement Nodejs like event-loop in C++.",
+        "Used main thread for CPU task and threadpool to distribute I/O bound tasks.",
+        "Implemented thread-safe time-based priorirty queue in C++ using mutex and condition variables."
       ],
       "keywords": [
         "Thread pool",
@@ -388,8 +419,8 @@
       "endDate": "2024-07-17",
       "url": "https://github.com/nullicist-aakash/Streams",
       "highlights": [
-        "Implemented Java-streams API using C++ iterators",
-        "Handled lifetime issues with separate handling for temporary containers and non-owning containers"
+        "Implemented Java-streams API using C++ iterators.",
+        "Handled lifetime issues with separate handling for temporary containers and non-owning containers."
       ],
       "keywords": [
         "Java stream",
