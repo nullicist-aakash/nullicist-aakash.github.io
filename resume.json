@@ -359,6 +359,25 @@
   ],
   "projects": [
     {
+      "name": "Java streams implementation in C++",
+      "description": "Replicated Java-stream API in C++.",
+      "summary": "Implemented a compile time LL(1) parser in C++ using constexpr and consteval features.",
+      "startDate": "2024-07-13",
+      "endDate": "2024-07-17",
+      "url": "https://github.com/nullicist-aakash/Streams",
+      "highlights": [
+        "Implemented Java-streams API using C++ iterators",
+        "Handled lifetime issues with separate handling for temporary containers and non-owning containers"
+      ],
+      "keywords": [
+        "Java stream",
+        "C++ iterators",
+        "C++20 Ranges"
+      ],
+      "roles": ["Solo"],
+      "type": "Personal Project"
+    },
+    {
       "name": "Compile Time Parser",
       "description": "Compile time LL(1) parser in C++",
       "summary": "Implemented a compile time LL(1) parser in C++ using constexpr and consteval features.",
@@ -378,7 +397,8 @@
         "Longest match lexer",
         "LL(1) Parser",
         "constexpr and consteval",
-        "C++ modules",
+        "C++20 concepts",
+        "C++20 modules",
         "JSON Parsing"
       ],
       "roles": ["Solo"],
