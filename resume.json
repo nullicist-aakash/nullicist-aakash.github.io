@@ -251,37 +251,6 @@
   "publications": [
     
   ],
-  "interests": [
-    {
-      "name": "System Design",
-      "keywords": [
-        "Scalability",
-        "Modularity",
-        "Availability",
-        "Efficiency",
-        "API Design",
-        "Distributed Systems",
-        "Infrastructure"
-      ]
-    },
-    {
-      "name": "System Programming",
-      "keywords": [
-        "Assembly",
-        "Network Programming",
-        "Linux Programming",
-        "Parallel Computing"
-      ]
-    },
-    {
-      "name": "Data Structures and Algorithms",
-      "keywords": [
-        "Competitive Programming",
-        "Data Structures in C++",
-        "Analysis of Algorithms"
-      ]
-    }
-  ],
   "references": [
 
   ],
