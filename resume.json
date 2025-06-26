@@ -37,6 +37,9 @@
       "startDate": "2023-07-05",
       "summary": "",
       "highlights": [
+	"Modeled and implemented a real-time bond quote processing infrastructure, developed quote processing algorithms, and disaster recovery using Java, C++ and Kafka. Profiled the code, and improved the throughput by 20x.",
+        "Performed data analysis for algorithmic design using C++ and Python, analyzed bond’s market data, improved runtime of bond pricing infrastructure and handled various stakeholder’s queries.",
+	"Enhanced existing processes in the team, and implemented various domain-specific jobs in Python."
       ]
     },
     {
@@ -52,20 +55,6 @@
         "Migrated code from python2 to python3 for core-infra team.",
         "Tested functional code using Mock and Mox in both python2 and 3 for backward compatibility.",
         "Completed code coverage of core-infra codebase upto 90% from 30%."
-      ]
-    },
-    {
-      "name": "CryptoPool",
-      "location": "Cayman Islands",
-      "description": "Cryptocurrency Payment Gateway",
-      "position": "Senior Backend Engineer",
-      "url": "https://www.cryptopool.money/",
-      "startDate": "2022-09-30",
-      "summary": "Working with the founder to manage the development of payment gateway system for cryptocurrencies.",
-      "highlights": [
-        "Working with the developer team and resolving blockers.",
-        "Resolving technical doubts of clients, investors and service providers.",
-        "Continuous code reviews for the code developed by team."
       ]
     },
     {
